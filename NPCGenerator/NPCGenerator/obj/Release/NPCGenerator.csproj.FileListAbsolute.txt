@@ -1,7 +1,6 @@
 C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\bin\Release\NPCGenerator.exe.config
 C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\bin\Release\NPCGenerator.exe
 C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\bin\Release\NPCGenerator.pdb
-C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\obj\Release\NPCGenerator.csprojAssemblyReference.cache
 C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\obj\Release\NPCGenerator.csproj.CoreCompileInputs.cache
 C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\obj\Release\NPCGenerator.exe
 C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\obj\Release\NPCGenerator.pdb
