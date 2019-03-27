@@ -1,0 +1,8 @@
+Human
+Elf
+Orc
+Half-Orc
+Gnome
+Halfling
+Goblin
+Green Giant

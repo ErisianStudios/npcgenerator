@@ -1,0 +1,6 @@
+C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\bin\Debug\NPCGenerator.exe.config
+C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\bin\Debug\NPCGenerator.exe
+C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\bin\Debug\NPCGenerator.pdb
+C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\obj\Debug\NPCGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\obj\Debug\NPCGenerator.exe
+C:\Users\Xen\source\repos\NPCGenerator\NPCGenerator\obj\Debug\NPCGenerator.pdb

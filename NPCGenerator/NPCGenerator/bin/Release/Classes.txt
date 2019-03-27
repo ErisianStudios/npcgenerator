@@ -1,0 +1,6 @@
+Melee Fighter
+Ranged Fighter
+Priest
+Nature Priest
+Magic User
+Scholar
